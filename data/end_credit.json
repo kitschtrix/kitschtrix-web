@@ -150,7 +150,7 @@
       "kind": "member",
       "role": "location-scout",
       "source": "6fccc1fe-d283-4660-bd5b-4b39e47aa755",
-      "displayName": "Wil Kennedy",
+      "displayName": "Lynk",
       "deco": [
         {
           "type": "color",
@@ -188,5 +188,6 @@
       "source": "fdc0d6c6-afa6-459d-a978-3ec3b0391736",
       "displayName": "ghostlySmile"
     }
-  ]
+  ],
+  "generatedAt": "2026-05-25T05:46:30.861Z"
 }
