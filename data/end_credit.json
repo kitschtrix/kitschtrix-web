@@ -193,7 +193,19 @@
       "role": "extras",
       "source": "3cff95b1-da64-4e39-8d7e-1badb1f74900",
       "displayName": "H"
+    },
+    {
+      "kind": "member",
+      "role": "extras",
+      "source": "6cba4499-16bb-4d59-b767-0b4624162e0a",
+      "displayName": "stmpnk"
+    },
+    {
+      "kind": "member",
+      "role": "extras",
+      "source": "d493421c-9baf-419a-83cb-0edad31174e8",
+      "displayName": "Darwin Cabrera"
     }
   ],
-  "generatedAt": "2026-06-02T03:53:53.074Z"
+  "generatedAt": "2026-06-02T13:17:31.118Z"
 }
