@@ -5,48 +5,55 @@
       "title": "Director",
       "order": -1000,
       "group": null,
-      "deco": "big"
+      "deco": "big",
+      "defaultDeco": []
     },
     {
       "id": "producer",
       "title": "Producer",
       "order": -1000,
       "group": null,
-      "deco": "big"
+      "deco": "big",
+      "defaultDeco": []
     },
     {
       "id": "screenwriter",
       "title": "Screenwriter",
       "order": -900,
       "group": null,
-      "deco": "big"
+      "deco": "big",
+      "defaultDeco": []
     },
     {
       "id": "rnd",
       "title": "R&D",
       "order": -800,
       "group": null,
-      "deco": "big"
+      "deco": "big",
+      "defaultDeco": []
     },
     {
       "id": "setmedic",
       "title": "Set Medic",
       "order": -700,
       "group": null,
-      "deco": "big"
+      "deco": "big",
+      "defaultDeco": []
     },
     {
       "id": "location-scout",
       "title": "Location Scout",
       "order": 0,
-      "group": "rnd"
+      "group": "rnd",
+      "defaultDeco": []
     },
     {
       "id": "extras",
       "title": "Extras",
       "order": 1000,
       "group": null,
-      "deco": "wide"
+      "deco": "wide",
+      "defaultDeco": []
     }
   ],
   "segments": [
@@ -151,10 +158,8 @@
       "role": "location-scout",
       "source": "6fccc1fe-d283-4660-bd5b-4b39e47aa755",
       "displayName": "Lynk",
-      "tierTitles": [
-        "Team Hana"
-      ],
-      "currentPoints": 4000,
+      "tierTitles": [],
+      "currentPoints": 0,
       "lifetimePoints": 4000,
       "deco": [
         {
@@ -250,7 +255,18 @@
       ],
       "currentPoints": 0,
       "lifetimePoints": 0
+    },
+    {
+      "kind": "member",
+      "role": "extras",
+      "source": "a074a526-1d12-4dc3-ae7e-d86d355268cd",
+      "displayName": "adocrim",
+      "tierTitles": [
+        "Free"
+      ],
+      "currentPoints": 0,
+      "lifetimePoints": 0
     }
   ],
-  "generatedAt": "2026-06-13T02:46:00.347Z"
+  "generatedAt": "2026-06-30T02:41:39.961Z"
 }
