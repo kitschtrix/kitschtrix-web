@@ -1,8 +1,11 @@
 {
   "uuid": "6fccc1fe-d283-4660-bd5b-4b39e47aa755",
-  "nickname": "Lynk",
+  "nickname": "Anonymous",
   "tierTitles": [],
   "currentPoints": 0,
   "lifetimePoints": 4000,
+  "user": {
+    "id": "17827701"
+  },
   "status": "stopped"
 }

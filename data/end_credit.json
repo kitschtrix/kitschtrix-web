@@ -157,7 +157,7 @@
       "kind": "member",
       "role": "location-scout",
       "source": "6fccc1fe-d283-4660-bd5b-4b39e47aa755",
-      "displayName": "Lynk",
+      "displayName": "Anonymous",
       "tierTitles": [],
       "currentPoints": 0,
       "lifetimePoints": 4000,
@@ -173,6 +173,17 @@
       "role": "extras",
       "source": "01f88511-d3b3-4999-963d-564b0efca533",
       "displayName": "scoobacca",
+      "tierTitles": [
+        "Free"
+      ],
+      "currentPoints": 0,
+      "lifetimePoints": 0
+    },
+    {
+      "kind": "member",
+      "role": "extras",
+      "source": "a04f8d8b-2b67-4b55-8fb2-7174f5d64f6c",
+      "displayName": "TheMagicLoki",
       "tierTitles": [
         "Free"
       ],
@@ -268,5 +279,5 @@
       "lifetimePoints": 0
     }
   ],
-  "generatedAt": "2026-06-30T02:41:39.961Z"
+  "generatedAt": "2026-07-15T00:12:24.193Z"
 }
