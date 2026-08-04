@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Patreon Login</title>
+</head>
+<body>
+  <p id="status">Processing Patreon Login.</p>
+
+  <script>
+    const API_ORIGIN = "https://login.kitschtrix-patreon-6837.workers.dev";
+    const SITE_HOME = "/kitschtrix-web/";
+    const TOKEN_STORAGE_KEY = "patreon_access_token";
+
+    run().catch((error) => {
+      console.error(error);
+      document.querySelector("#status").textContent =
+        "Failed to process login. Please try logging in again.";
+    });
+
+    async function run() {
+      const fragment = new URLSearchParams(location.hash.slice(1));
+      const code = fragment.get("code");
+      const error = fragment.get("error");
+
+      history.replaceState(null, "", location.pathname + location.search);
+
+      if (error) {
+        throw new Error(`Patreon login failed: ${error}`);
+      }
+
+      if (!code) {
+        throw new Error("Missing one-time login code");
+      }
+
+      const response = await fetch(`${API_ORIGIN}/auth/exchange`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ code }),
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.message || result.error || "Exchange failed");
+      }
+
+      sessionStorage.setItem(TOKEN_STORAGE_KEY, result.access_token);
+      location.replace(SITE_HOME);
+    }
+  </script>
+</body>
+</html>
