@@ -1,0 +1,20 @@
+[
+    {
+        "name": "webtoon",
+        "href": "https://www.webtoons.com/en/canvas/kitschtrix/list?title_no=953967",
+        "logoSrc": "assets/sns/logo/webtoon.png",
+        "colorOverride": "#1dbf73"
+    },
+    {
+        "name": "patreon",
+        "href": "https://www.patreon.com/cw/kitschtrix",
+        "logoSrc": "assets/sns/logo/patreon.png",
+        "colorOverride": "#f96854"
+    },
+    {
+        "name": "instagram",
+        "href": "https://www.instagram.com/kitschtrix/",
+        "logoSrc": "assets/sns/logo/instagram.png",
+        "colorOverride": "#e1306c"
+    }
+]

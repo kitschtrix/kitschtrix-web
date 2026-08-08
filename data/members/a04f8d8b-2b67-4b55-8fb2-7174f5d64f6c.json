@@ -1,13 +1,8 @@
 {
   "uuid": "a04f8d8b-2b67-4b55-8fb2-7174f5d64f6c",
   "nickname": "TheMagicLoki",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "37566397"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }

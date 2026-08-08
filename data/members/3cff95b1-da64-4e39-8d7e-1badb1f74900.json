@@ -1,13 +1,8 @@
 {
   "uuid": "3cff95b1-da64-4e39-8d7e-1badb1f74900",
   "nickname": "H",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "215663489"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }

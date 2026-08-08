@@ -1,0 +1,600 @@
+{
+  "data": {
+    "segments": [
+      {
+        "id": "role-director",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "director"
+        },
+        "children": [
+          {
+            "id": "text-director",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Director"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-director",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "protagonist-char-1",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-1",
+                  "displayName": "Hana Zaitsev"
+                },
+                "children": [
+                  {
+                    "id": "text-char-1",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "Hana Zaitsev"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "protagonist-char-2",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-2",
+                  "displayName": "Nyck Kincaid"
+                },
+                "children": [
+                  {
+                    "id": "text-char-2",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "Nyck Kincaid"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-producer",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "producer"
+        },
+        "children": [
+          {
+            "id": "text-producer",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Producer"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-producer",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "protagonist-char-7",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-7",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-7",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-screenwriter",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "screenwriter"
+        },
+        "children": [
+          {
+            "id": "text-screenwriter",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Screenwriter"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-screenwriter",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "protagonist-char-4",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-4",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-4",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "protagonist-char-5",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-5",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-5",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-rnd",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "rnd"
+        },
+        "children": [
+          {
+            "id": "text-rnd",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "R&D"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-rnd",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "protagonist-char-3",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-3",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-3",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "protagonist-char-6",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-6",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-6",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-setmedic",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "setmedic"
+        },
+        "children": [
+          {
+            "id": "text-setmedic",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Set Medic"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-setmedic",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "protagonist-char-8",
+                "kind": "PROTAGONIST",
+                "content": {
+                  "protagonistId": "char-8",
+                  "displayName": "???"
+                },
+                "children": [
+                  {
+                    "id": "text-char-8",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "???"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-location-scout",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "location-scout"
+        },
+        "children": [
+          {
+            "id": "text-location-scout",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Location Scout"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-location-scout",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "member-6fccc1fe-d283-4660-bd5b-4b39e47aa755",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "6fccc1fe-d283-4660-bd5b-4b39e47aa755",
+                  "displayName": "*SECRET*"
+                },
+                "children": [
+                  {
+                    "id": "text-6fccc1fe-d283-4660-bd5b-4b39e47aa755",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "*SECRET*"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {}
+          }
+        ],
+        "deco": {}
+      },
+      {
+        "id": "role-extras",
+        "kind": "GROUP_ROLE",
+        "content": {
+          "roleId": "extras"
+        },
+        "children": [
+          {
+            "id": "text-extras",
+            "kind": "TEXT_GROUP_TITLE",
+            "content": {
+              "text": "Extras"
+            },
+            "children": [],
+            "deco": {}
+          },
+          {
+            "id": "group-members-extras",
+            "kind": "GROUP_MEMBER",
+            "content": {},
+            "children": [
+              {
+                "id": "member-aebd1f7f-e0f0-4841-9fe9-011cbe3e7d12",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "aebd1f7f-e0f0-4841-9fe9-011cbe3e7d12",
+                  "displayName": "mustangdrew4 "
+                },
+                "children": [
+                  {
+                    "id": "text-aebd1f7f-e0f0-4841-9fe9-011cbe3e7d12",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "mustangdrew4 "
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-b1ef9c44-284b-457a-9f81-75e2727280c2",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "b1ef9c44-284b-457a-9f81-75e2727280c2",
+                  "displayName": "BeeHuntress"
+                },
+                "children": [
+                  {
+                    "id": "text-b1ef9c44-284b-457a-9f81-75e2727280c2",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "BeeHuntress"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-01f88511-d3b3-4999-963d-564b0efca533",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "01f88511-d3b3-4999-963d-564b0efca533",
+                  "displayName": "scoobacca"
+                },
+                "children": [
+                  {
+                    "id": "text-01f88511-d3b3-4999-963d-564b0efca533",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "scoobacca"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-a04f8d8b-2b67-4b55-8fb2-7174f5d64f6c",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "a04f8d8b-2b67-4b55-8fb2-7174f5d64f6c",
+                  "displayName": "TheMagicLoki"
+                },
+                "children": [
+                  {
+                    "id": "text-a04f8d8b-2b67-4b55-8fb2-7174f5d64f6c",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "TheMagicLoki"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-57b8dde4-e180-4882-b59e-5004fbe68bf4",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "57b8dde4-e180-4882-b59e-5004fbe68bf4",
+                  "displayName": "holden"
+                },
+                "children": [
+                  {
+                    "id": "text-57b8dde4-e180-4882-b59e-5004fbe68bf4",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "holden"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-b4956a42-6b86-4972-b26c-498106d4d58a",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "b4956a42-6b86-4972-b26c-498106d4d58a",
+                  "displayName": "P4ck Rat Entertainment"
+                },
+                "children": [
+                  {
+                    "id": "text-b4956a42-6b86-4972-b26c-498106d4d58a",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "P4ck Rat Entertainment"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-fdc0d6c6-afa6-459d-a978-3ec3b0391736",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "fdc0d6c6-afa6-459d-a978-3ec3b0391736",
+                  "displayName": "ghostlySmile"
+                },
+                "children": [
+                  {
+                    "id": "text-fdc0d6c6-afa6-459d-a978-3ec3b0391736",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "ghostlySmile"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-3cff95b1-da64-4e39-8d7e-1badb1f74900",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "3cff95b1-da64-4e39-8d7e-1badb1f74900",
+                  "displayName": "H"
+                },
+                "children": [
+                  {
+                    "id": "text-3cff95b1-da64-4e39-8d7e-1badb1f74900",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "H"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-6cba4499-16bb-4d59-b767-0b4624162e0a",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "6cba4499-16bb-4d59-b767-0b4624162e0a",
+                  "displayName": "stmpnk"
+                },
+                "children": [
+                  {
+                    "id": "text-6cba4499-16bb-4d59-b767-0b4624162e0a",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "stmpnk"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-d493421c-9baf-419a-83cb-0edad31174e8",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "d493421c-9baf-419a-83cb-0edad31174e8",
+                  "displayName": "Darwin Cabrera"
+                },
+                "children": [
+                  {
+                    "id": "text-d493421c-9baf-419a-83cb-0edad31174e8",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "Darwin Cabrera"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
+                "id": "member-a074a526-1d12-4dc3-ae7e-d86d355268cd",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "a074a526-1d12-4dc3-ae7e-d86d355268cd",
+                  "displayName": "adocrim"
+                },
+                "children": [
+                  {
+                    "id": "text-a074a526-1d12-4dc3-ae7e-d86d355268cd",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "adocrim"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              }
+            ],
+            "deco": {
+              "layout": "packed"
+            }
+          }
+        ],
+        "deco": {}
+      }
+    ]
+  },
+  "metadata": {
+    "updateDate": "2026-08-08T02:34:23.869Z"
+  }
+}

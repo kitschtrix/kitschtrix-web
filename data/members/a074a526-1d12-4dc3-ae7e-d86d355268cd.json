@@ -1,13 +1,8 @@
 {
   "uuid": "a074a526-1d12-4dc3-ae7e-d86d355268cd",
   "nickname": "adocrim",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "181255012"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }

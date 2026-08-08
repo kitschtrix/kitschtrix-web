@@ -1,13 +1,8 @@
 {
   "uuid": "b1ef9c44-284b-457a-9f81-75e2727280c2",
   "nickname": "BeeHuntress",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "46226824"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }

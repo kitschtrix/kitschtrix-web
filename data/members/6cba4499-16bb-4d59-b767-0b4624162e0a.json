@@ -1,13 +1,8 @@
 {
   "uuid": "6cba4499-16bb-4d59-b767-0b4624162e0a",
   "nickname": "stmpnk",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "215673645"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }

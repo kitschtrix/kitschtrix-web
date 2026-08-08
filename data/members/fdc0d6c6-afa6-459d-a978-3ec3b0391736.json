@@ -1,13 +1,8 @@
 {
   "uuid": "fdc0d6c6-afa6-459d-a978-3ec3b0391736",
   "nickname": "ghostlySmile",
-  "tierTitles": [
-    "Free"
-  ],
-  "currentPoints": 0,
-  "lifetimePoints": 0,
-  "user": {
-    "id": "76477352"
-  },
-  "status": "active"
+  "points": {
+    "current": 0,
+    "total": 0
+  }
 }
