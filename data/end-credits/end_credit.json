@@ -365,6 +365,26 @@
             "content": {},
             "children": [
               {
+                "id": "member-6d0362f2-81ae-4e73-9faf-b294afe9498e",
+                "kind": "MEMBER",
+                "content": {
+                  "memberId": "6d0362f2-81ae-4e73-9faf-b294afe9498e",
+                  "displayName": "Zilo Lars"
+                },
+                "children": [
+                  {
+                    "id": "text-6d0362f2-81ae-4e73-9faf-b294afe9498e",
+                    "kind": "TEXT",
+                    "content": {
+                      "text": "Zilo Lars"
+                    },
+                    "children": [],
+                    "deco": {}
+                  }
+                ],
+                "deco": {}
+              },
+              {
                 "id": "member-aebd1f7f-e0f0-4841-9fe9-011cbe3e7d12",
                 "kind": "MEMBER",
                 "content": {
@@ -595,6 +615,6 @@
     ]
   },
   "metadata": {
-    "updateDate": "2026-08-08T02:34:23.869Z"
+    "updateDate": "2026-08-11T10:21:07.589Z"
   }
 }
